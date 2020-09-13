@@ -1,5 +1,5 @@
 {
-  "name": "@reecelucas/react-use-hotkeys",
+  "name": "@imedadel/react-use-hotkeys",
   "version": "1.3.0",
   "description": "React hook to create keyboard shortcuts",
   "main": "lib/index.js",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reecelucas/react-use-hotkeys.git"
+    "url": "git+https://github.com/imedadel/react-use-hotkeys.git"
   },
   "keywords": [
     "react",
@@ -40,7 +40,7 @@
   "bugs": {
     "url": "https://github.com/reecelucas/react-use-hotkeys/issues"
   },
-  "homepage": "https://github.com/reecelucas/react-use-hotkeys#readme",
+  "homepage": "https://github.com/imedadel/react-use-hotkeys#readme",
   "peerDependencies": {
     "react": "^16.8.0",
     "react-dom": "^16.8.0"
